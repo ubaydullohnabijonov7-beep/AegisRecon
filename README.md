@@ -14,7 +14,7 @@ AegisRecon is a lightweight, fast, and modular OSINT (Open Source Intelligence) 
 ## Installation (Kali Linux / Linux)
 
 1. Clone the repository:
-   git clone https://github.com/YOUR_USERNAME/AegisRecon.git
+   git clone https://github.com/MR.H/AegisRecon.git
    cd AegisRecon
 
 2. Create and activate a virtual environment:
